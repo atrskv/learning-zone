@@ -4,6 +4,8 @@
 # Подсказка: Имя функции можно получить с помощью func.__name__
 
 import inspect
+
+
 def open_browser(arg1, arg2='name'):
     pass
 
